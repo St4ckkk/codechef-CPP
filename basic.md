@@ -113,6 +113,7 @@ int main() {
 
 ```
 ### Exams
+```cpp
 INPUT
 4
 2 10 12
@@ -124,7 +125,6 @@ YES
 NO
 YES
 NO
-```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
