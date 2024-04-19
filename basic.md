@@ -1,4 +1,4 @@
-#BASICS
+# BASICS
 ### Greater Average
 
 ```cpp
